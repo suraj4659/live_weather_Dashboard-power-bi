@@ -98,9 +98,9 @@ This dashboard supports **automatic refresh** at regular intervals using Power B
 ## 📬 Contact
 
 For queries or collaboration:
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn Profile](https://www.linkedin.com)
+**suraj prasad**
+📧 [Email](465755suraj@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/suraj-n-prasad-207b9532a/)
 
 ---
 
