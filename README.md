@@ -99,8 +99,8 @@ This dashboard supports **automatic refresh** at regular intervals using Power B
 
 For queries or collaboration:
 **suraj prasad**
-📧 [Email](465755suraj@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/suraj-n-prasad-207b9532a/)
+📧 (465755suraj@gmail.com)
+🔗 (https://www.linkedin.com/in/suraj-n-prasad-207b9532a/)
 
 ---
 
